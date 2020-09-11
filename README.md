@@ -1,4 +1,4 @@
-# Greetings wanderer! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Greetings wanderer! <img src="https://pic.funnygifsbox.com/uploads/2020/01/funnygifsbox.com-2020-01-14-05-00-35-47.gif" width="30px">
 ### Hi there 👋
 
 <!--
