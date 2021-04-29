@@ -1,5 +1,6 @@
 # Greetings wanderer! 🌱
 ### You've found my profile 
 
-- ⚡ I shall update this soon.. 
+- ⚡ Never stop learning
+- ✉️ Email me for business opportunities
 
