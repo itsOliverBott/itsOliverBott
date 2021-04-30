@@ -7,8 +7,7 @@
 <p align="center">
   <img name="vscode" src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="100">
   <img name="angular" src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" width="100">
-  <img name="googlemaps" src="https://media.giphy.com/media/lOfSzpPeMb9gF2OJ5O/giphy.gif" width="100">
- 
+
  <img name="javascript" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100">
  <img name="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100">
  
