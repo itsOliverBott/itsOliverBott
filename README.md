@@ -5,7 +5,7 @@
 - ✉️ Email me for business opportunities
 
 ### Follow me
-[![Linkedin Badge](https://img.shields.io/badge/-OliverBott-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/#/)](https://www.linkedin.com/in/#/)
+[![Linkedin Badge](https://img.shields.io/badge/--blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/#/)](https://www.linkedin.com/in/#/)
 [![Instagram Badge](https://img.shields.io/badge/-itsOliverBott-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/itsOliverBott/)](https://instagram.com/itsOliverBott)
 [![Youtube Badge](https://img.shields.io/badge/-OliverBott-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCS8eUXnwHx7KhkM4QETeS4w)](https://www.youtube.com/channel/UCS8eUXnwHx7KhkM4QETeS4w)
 [![Medium Badge](https://img.shields.io/badge/-@OliverBott-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@OliverBott/)](https://medium.com/@OliverBott)
