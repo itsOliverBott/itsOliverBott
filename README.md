@@ -1,7 +1,7 @@
 # Greetings wanderer! 🌱
 ### You've found my profile 
 
-<h3 align="left">🚀 Angular Expert | 🛠️ Frontend Architect | 💡 UI/UX Enthusiast</h3>
+<h3 align="left">🚀 Angular Expert | 🛠️ Full-stack Architect | 💡 UI/UX Enthusiast</h3>
 
 <p align="left">
   <img src="https://img.shields.io/badge/SCSS-hotpink.svg?style=flat&logo=sass&logoColor=white" />
