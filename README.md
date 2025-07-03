@@ -1,5 +1,4 @@
 # Greetings wanderer! 🌱
-### You've found my profile 
 
 <h3 align="left">🚀 Angular Expert | 🛠️ Full-stack Architect | 💡 UI/UX Enthusiast</h3>
 
@@ -16,6 +15,7 @@
   <img src="https://img.shields.io/badge/Unity-000000.svg?style=flat&logo=unity&logoColor=white" />
 </p>
 
+### You've found my profile, have a cookie 🍪
 
 - ⚡ Never stop learning
 - ✉️ Email me for business opportunities
